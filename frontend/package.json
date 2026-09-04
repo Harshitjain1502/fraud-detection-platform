@@ -1,0 +1,1 @@
+{"name":"frontend","private":true,"version":"0.0.0","type":"module","scripts":{"dev":"vite","build":"vite build","lint":"eslint .","preview":"vite preview"},"dependencies":{"@vitejs/plugin-react":"^6.1.1","lucide-react":"^1.40.0","react":"^19.2.8","react-dom":"^19.2.8","recharts":"^3.10.1","vite":"^8.2.2"}}

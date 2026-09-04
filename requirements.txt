@@ -1,0 +1,31 @@
+# Web Framework & API
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.7.0
+websockets>=12.0
+
+# Data Manipulation & Math
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Machine Learning & Deep Learning
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+lightgbm>=4.3.0
+tensorflow>=2.15.0
+
+# Model Explainability
+shap>=0.45.0
+
+# Streaming Pipeline
+kafka-python-ng>=2.2.0
+
+# Database Drivers
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+pymongo>=4.6.0
+
+# Utility & Alerts
+python-dotenv>=1.0.0
+requests>=2.31.0
+jinja2>=3.1.0

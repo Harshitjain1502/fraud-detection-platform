@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python Cache & Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Database
+*.db
+*.sqlite3
+fraud_analytics.db
+
+# Frontend / Node Dependencies & Builds
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Environment Variables & Secret Files
+.env
+.env.local
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
